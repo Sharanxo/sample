@@ -1,7 +1,7 @@
 var box;
 
 function setup() {
-  createCanvas(1920,1080);
+  createCanvas(1366,768);
   box = createSprite(300,300,80,30);
 
 }
